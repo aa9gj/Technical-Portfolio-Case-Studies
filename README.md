@@ -11,6 +11,7 @@ For private repositories, the case studies stay public while the source code can
 | Project | Problem Area | Stack | What It Shows | Status |
 |---|---|---|---|---|
 | [FitCast](projects/fitcast/) | Job search automation, fit scoring, resume tailoring | Python, Anthropic Claude, Pydantic, public ATS APIs, pytest, GitHub Actions | Product decomposition, LLM orchestration, deterministic scoring, cost-aware pipelines, CI/smoke testing | Draft v1 |
+| [image-to-text-analysis](projects/image-to-text-analysis/) | Image-to-text extraction and product-change detection | Python, OpenAI GPT-5, OpenAI embeddings, Nemotron-Parse, RolmOCR, Nanonets OCR, PyTorch/CUDA, SQLite, RapidFuzz | Multimodal extraction, structured JSON generation, retry/error handling, embedding retrieval, deterministic similarity scoring, human-readable reports | Draft v1 |
 | [Bio Claims App](projects/bio-claims-app/) | Biomedical RAG, claim verification, knowledge graph grounding | Python, Streamlit, FastAPI, LiteLLM, ChromaDB, BGE embeddings, biomedical KGs, SQLite, pytest | Hybrid RAG architecture, third-party KG integration, evidence provenance, claim scoring, human review, evaluation pipelines | Draft v1 |
 
 ### Computational Biology
