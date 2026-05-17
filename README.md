@@ -6,11 +6,23 @@ For private repositories, the case studies stay public while the source code can
 
 ## Project Index
 
+### Applied AI
+
 | Project | Problem Area | Stack | What It Shows | Status |
 |---|---|---|---|---|
 | [FitCast](projects/fitcast/) | Job search automation, fit scoring, resume tailoring | Python, Anthropic Claude, Pydantic, public ATS APIs, pytest, GitHub Actions | Product decomposition, LLM orchestration, deterministic scoring, cost-aware pipelines, CI/smoke testing | Draft v1 |
 | [Bio Claims App](projects/bio-claims-app/) | Biomedical RAG, claim verification, knowledge graph grounding | Python, Streamlit, FastAPI, LiteLLM, ChromaDB, BGE embeddings, biomedical KGs, SQLite, pytest | Hybrid RAG architecture, third-party KG integration, evidence provenance, claim scoring, human review, evaluation pipelines | Draft v1 |
+
+### Computational Biology
+
+| Project | Problem Area | Stack | What It Shows | Status |
+|---|---|---|---|---|
 | [bulk-rnaseq-nf](projects/bulk-rnaseq-nf/) | Bulk RNA-seq workflow automation | Nextflow DSL2, HISAT2, StringTie, RSeQC, featureCounts, HTSeq, MultiQC, Docker, Singularity, SLURM | Reproducible bioinformatics pipelines, modular workflow design, HPC/container profiles, QC diagnostics, count-matrix generation | Draft v1 |
+| [low-pass-WGS-pipeline](projects/low-pass-wgs-pipeline/) | Low-pass whole-genome sequencing workflow automation | Bash, SLURM, BWA, SAMtools, GATK, BCFtools, FastQC, MultiQC, BEAGLE, R, bats | HPC genomics workflows, variant calling, joint genotyping, imputation, setup validation, modular pipeline documentation | Draft v1 |
+
+### Clinical Data Analytics
+
+No public case study yet. This section is reserved for projects focused on clinical data modeling, real-world evidence, cohort analytics, dashboards, or regulated health-data workflows.
 
 ## Reading Guide
 
