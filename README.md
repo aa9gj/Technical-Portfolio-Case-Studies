@@ -19,6 +19,7 @@ For private repositories, the case studies stay public while the source code can
 |---|---|---|---|---|
 | [bulk-rnaseq-nf](projects/bulk-rnaseq-nf/) | Bulk RNA-seq workflow automation | Nextflow DSL2, HISAT2, StringTie, RSeQC, featureCounts, HTSeq, MultiQC, Docker, Singularity, SLURM | Reproducible bioinformatics pipelines, modular workflow design, HPC/container profiles, QC diagnostics, count-matrix generation | Draft v1 |
 | [low-pass-WGS-pipeline](projects/low-pass-wgs-pipeline/) | Low-pass whole-genome sequencing workflow automation | Bash, SLURM, BWA, SAMtools, GATK, BCFtools, FastQC, MultiQC, BEAGLE, R, bats | HPC genomics workflows, variant calling, joint genotyping, imputation, setup validation, modular pipeline documentation | Draft v1 |
+| [Whole-Genome-Bisulfite-Sequencing-Pipeline](projects/whole-genome-bisulfite-sequencing-pipeline/) | WGBS methylation workflow automation | Bash, SLURM, Trim Galore, FastQC, MultiQC, Bismark, HISAT2/Bowtie2, SAMtools, methylKit, GenomicRanges, R | Bisulfite sequencing pipelines, CpG methylation extraction, differential methylation analysis, coverage/QC reporting, genomic annotation | Draft v1 |
 
 ### Clinical Data Analytics
 
