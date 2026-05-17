@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+
+# Local scratch/output files
+tmp/
+*.log
+
+# Editor folders
+.idea/
+.vscode/
