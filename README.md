@@ -22,6 +22,7 @@ For private repositories, the case studies stay public while the source code can
 | [low-pass-WGS-pipeline](projects/low-pass-wgs-pipeline/) | Low-pass whole-genome sequencing workflow automation | Bash, SLURM, BWA, SAMtools, GATK, BCFtools, FastQC, MultiQC, BEAGLE, R, bats | HPC genomics workflows, variant calling, joint genotyping, imputation, setup validation, modular pipeline documentation | Draft v1 |
 | [Whole-Genome-Bisulfite-Sequencing-Pipeline](projects/whole-genome-bisulfite-sequencing-pipeline/) | WGBS methylation workflow automation | Bash, SLURM, Trim Galore, FastQC, MultiQC, Bismark, HISAT2/Bowtie2, SAMtools, methylKit, GenomicRanges, R | Bisulfite sequencing pipelines, CpG methylation extraction, differential methylation analysis, coverage/QC reporting, genomic annotation | Draft v1 |
 | [GWASTargetChase](projects/gwas-target-chase/) | Cross-species GWAS target prioritization | R, Bioconductor, GenomicRanges, rtracklayer, OpenTargets GraphQL API, IMPC REST API, Zoonomia orthology, testthat | Translational genetics, gene prioritization, API/data integration, orthology mapping, R package design, offline/online workflows | Draft v1 |
+| [alphagenome-test](projects/alphagenome-test/) | AI-assisted regulatory variant prioritization | Python, AlphaGenome API, pandas, NumPy, cyvcf2, bcftools, pyliftover, pyarrow, 1000 Genomes, GTEx metadata | GWAS locus follow-up, LD proxy extraction, hg19-to-hg38 liftover, checkpointed API prediction, cross-tissue scoring, variant ranking | Draft v1 |
 
 ### Clinical Data Analytics
 
