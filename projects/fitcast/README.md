@@ -231,7 +231,7 @@ Good contribution areas would include:
 
 The FitCast source repository uses the PolyForm Noncommercial License 1.0.0. It is source-available for noncommercial use, research, education, and personal experimentation, but commercial use is not permitted without a separate arrangement.
 
-This public case study is documentation for interview and portfolio review. It is not a full redistribution of the private source repository.
+This public case study is documentation for interview and portfolio review. It is not a replacement for reviewing the source repository directly.
 
 ## Acknowledgements
 
@@ -243,7 +243,7 @@ Arby Abood
 
 ## Links
 
-- Source repo: private GitHub repository, access can be granted for review.
+- Source repo: [aa9gj/fitcast](https://github.com/aa9gj/fitcast)
 - Supporting docs in this case study:
   - [Architecture](architecture.md)
   - [Pipelines](pipelines.md)
